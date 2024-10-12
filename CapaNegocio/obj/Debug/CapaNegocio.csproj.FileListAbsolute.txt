@@ -1,0 +1,11 @@
+C:\GestorFerreteria\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\GestorFerreteria\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\GestorFerreteria\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\GestorFerreteria\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\GestorFerreteria\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\GestorFerreteria\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\GestorFerreteria\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\GestorFerreteria\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\GestorFerreteria\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\GestorFerreteria\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\GestorFerreteria\CapaNegocio\obj\Debug\CapaNegocio.pdb

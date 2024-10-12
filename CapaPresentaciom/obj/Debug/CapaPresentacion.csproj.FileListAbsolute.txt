@@ -1,0 +1,17 @@
+C:\GestorFerreteria\CapaPresentaciom\bin\Debug\CapaPresentaciom.exe.config
+C:\GestorFerreteria\CapaPresentaciom\bin\Debug\CapaPresentaciom.exe
+C:\GestorFerreteria\CapaPresentaciom\bin\Debug\CapaPresentaciom.pdb
+C:\GestorFerreteria\CapaPresentaciom\bin\Debug\FontAwesome.Sharp.dll
+C:\GestorFerreteria\CapaPresentaciom\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\GestorFerreteria\CapaPresentaciom\obj\Debug\CapaPresentaciom.Inicio.resources
+C:\GestorFerreteria\CapaPresentaciom\obj\Debug\CapaPresentaciom.Login.resources
+C:\GestorFerreteria\CapaPresentaciom\obj\Debug\CapaPresentaciom.Properties.Resources.resources
+C:\GestorFerreteria\CapaPresentaciom\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\GestorFerreteria\CapaPresentaciom\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\GestorFerreteria\CapaPresentaciom\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\GestorFerreteria\CapaPresentaciom\obj\Debug\CapaPresentaciom.exe
+C:\GestorFerreteria\CapaPresentaciom\obj\Debug\CapaPresentaciom.pdb
+C:\GestorFerreteria\CapaPresentaciom\bin\Debug\CapaEntidad.dll
+C:\GestorFerreteria\CapaPresentaciom\bin\Debug\CapaNegocio.dll
+C:\GestorFerreteria\CapaPresentaciom\bin\Debug\CapaEntidad.pdb
+C:\GestorFerreteria\CapaPresentaciom\bin\Debug\CapaNegocio.pdb
